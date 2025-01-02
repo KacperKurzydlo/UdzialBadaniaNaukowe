@@ -10,3 +10,5 @@ ale jeśli zadany przedział rozmiarów nie jest za duży to sieć daje sobie na
 Werjsa 7 sprawdza jak radzi sobie "activation='tanh'" dodatkowo poza "activation='relu'". Nie widzę jakiś zancznych popraw w wyniakach. Co jest ciekawe natoamist to można spokojnie zrobić sieć na tanh zamiast relu i daje to bardzo podobne wyniki.
 
 Werjsa 8 zamiast kwadratu w środku mamy koło, co chyba jest protsze dla sieci do nauki.
+
+Wersja 9 - dodano dodatkowe wykresy w celu lepszego zobrazowania wyników.
